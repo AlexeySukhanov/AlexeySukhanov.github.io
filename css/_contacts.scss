@@ -26,11 +26,11 @@
 
 		&__info {
 			width: 100%;
-			max-width: 398px;
+			max-width: 442px;
 			list-style: none;
 			padding: 0;
 			@media  screen and (max-width: 1370px){
-				max-width: 315px;
+				max-width: 335px;
 			}
 			@media screen and (max-width: 992px) {
 				max-width: 334px;
@@ -89,8 +89,8 @@
 				}
 			 }
 			li:nth-child(2){
-				text-align: right;
-				width: 273px;
+				// text-align: right;
+				width: 278px;
 				@media screen and (max-width: 1370px) {
 					width: 208px;
 				}

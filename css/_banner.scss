@@ -152,6 +152,7 @@
 					font-weight: 700;
 					position: relative;
 					left: -21px;
+					line-height: 1.6;
 					@media screen and (max-width: 1300px){
 						font-size: 25px;
 						text-align: center;
@@ -179,7 +180,7 @@
 					}
 
 					p:nth-child(2){
-						margin-top: 38px;
+						margin-top: 28px;
 						text-align: right;
 						@media screen and (max-width: 1300px){
 							text-align: center;
@@ -198,7 +199,7 @@
 						background-color: #f96e3b;
 						content: '';
 						left: -10181px;
-						top: -97px;
+						top: -94px;
 						@media screen and (max-width: 1070px){
 							display: none;
 						}

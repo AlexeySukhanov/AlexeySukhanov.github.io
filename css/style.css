@@ -700,6 +700,7 @@ header .phones #in_phones {
   font-weight: 700;
   position: relative;
   left: -21px;
+  line-height: 1.6;
 }
 @media screen and (max-width: 1300px) {
   .banner__info__descr-cont__descr__inner {
@@ -741,7 +742,7 @@ header .phones #in_phones {
   }
 }
 .banner__info__descr-cont__descr__inner p:nth-child(2) {
-  margin-top: 38px;
+  margin-top: 28px;
   text-align: right;
 }
 @media screen and (max-width: 1300px) {
@@ -763,7 +764,7 @@ header .phones #in_phones {
   background-color: #f96e3b;
   content: '';
   left: -10181px;
-  top: -97px;
+  top: -94px;
 }
 @media screen and (max-width: 1070px) {
   .banner__info__descr-cont__descr__inner:before {
@@ -835,13 +836,13 @@ header .phones #in_phones {
 }
 .contacts__cont .contacts__info {
   width: 100%;
-  max-width: 398px;
+  max-width: 442px;
   list-style: none;
   padding: 0;
 }
 @media screen and (max-width: 1370px) {
   .contacts__cont .contacts__info {
-    max-width: 315px;
+    max-width: 335px;
   }
 }
 @media screen and (max-width: 992px) {
@@ -918,8 +919,7 @@ header .phones #in_phones {
   }
 }
 .contacts__cont .contacts__info li:nth-child(2) {
-  text-align: right;
-  width: 273px;
+  width: 278px;
 }
 @media screen and (max-width: 1370px) {
   .contacts__cont .contacts__info li:nth-child(2) {
