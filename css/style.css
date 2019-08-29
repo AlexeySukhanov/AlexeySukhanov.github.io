@@ -545,30 +545,30 @@ header .phones #in_phones {
     font-size: 40px;
   }
 }
-.banner__info__title h1 #in_title {
+.banner__info__title #in_title {
   position: absolute;
   background-color: transparent;
   border: 2px solid #f96e3b;
   border-left: 2px solid transparent;
   border-bottom: 2px solid transparent;
   border-right: 3px solid #f96e3b;
-  width: 9999px;
+  width: 600px;
   height: 190px;
   -webkit-transform: skew(42deg, 10deg) rotate(145deg);
           transform: skew(42deg, 10deg) rotate(145deg);
   -webkit-transform: skew(37deg);
           transform: skew(37deg);
   z-index: 1;
-  left: -10132px;
-  top: -52px;
+  right: 698px;
+  top: -10px;
 }
 @media screen and (max-width: 1300px) {
-  .banner__info__title h1 #in_title {
+  .banner__info__title #in_title {
     display: none;
   }
 }
 @media screen and (max-width: 1070px) {
-  .banner__info__title h1 #in_title {
+  .banner__info__title #in_title {
     display: none;
   }
 }
@@ -696,8 +696,8 @@ header .phones #in_phones {
 }
 .banner__info__descr-cont__descr__inner {
   max-width: 634px;
-  font-size: 30px;
-  font-weight: bold;
+  font-size: 25px;
+  font-weight: 700;
   position: relative;
   left: -21px;
 }
@@ -763,7 +763,7 @@ header .phones #in_phones {
   background-color: #f96e3b;
   content: '';
   left: -10181px;
-  top: -88px;
+  top: -97px;
 }
 @media screen and (max-width: 1070px) {
   .banner__info__descr-cont__descr__inner:before {
