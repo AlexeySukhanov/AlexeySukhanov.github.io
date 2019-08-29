@@ -753,7 +753,7 @@ header .phones #in_phones {
 @media screen and (max-width: 768px) {
   .banner__info__descr-cont__descr__inner p:nth-child(2) {
     text-align: center;
-    margin-top: 34px;
+    margin-top: 22px;
   }
 }
 .banner__info__descr-cont__descr__inner:before {
