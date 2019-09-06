@@ -12,6 +12,7 @@ $(document).ready(function(){
 	$('header img').after('<div class="divider"></div>');
 	$('.banner__info__descr-cont__descr').after('<div class="shape"></div>');
 
+	var user = detect.parse(navigator.userAgent);
 	console.log(user.browser.family);
 	console.log(user.browser.name);
 })
