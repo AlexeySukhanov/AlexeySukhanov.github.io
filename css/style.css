@@ -223,7 +223,7 @@ header .phones {
   border-right: none;
   position: relative;
   bottom: 20px;
-  font-family: Lora, serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: bold;
 }
 @media screen and (max-width: 1257px) {
